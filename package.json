@@ -1,6 +1,7 @@
 {
   "name": "express-initial-setup",
   "version": "1.0.0",
+  "author": "Eliseu Videira",
   "main": "index.js",
   "scripts": {
     "start": "node_modules/.bin/nodemon bin/www",
